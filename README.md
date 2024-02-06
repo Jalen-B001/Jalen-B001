@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jalen-B001
 - 👀 I’m interested in going to the gym and playing basketball.
-- 🌱 I’m currently learning Python programming.
-- 💞️ I’m looking to collaborate on programming for mobile applications.
-- 📫 How to reach me is by contacting my email @Jalenbullard2001@gmail.com
+- 🌱 I’ve learned C++, Java, and Python programming languages.
+- 💞️ I’m looking to collaborate on programming.
+- 📫 How to reach me is by contacting my email @Jalenbullard2001@gmail.com or Jalen.Bullard001@mymdc.net
 
 <!---
 Jalen-B001/Jalen-B001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
