@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jalen-B001
-- 👀 My interests are Python, Java, IOS Development, C++, and Microsoft Office.
+- 👋 Hi, I’m @Jalen Bullard
+- 👀 My skills are Python, Java, IOS Development, C++, and Microsoft Office.
 - 🌱 I’ve learned C++, Java, Swift and Python languages.
 - 💞️ I’m looking to join a talented team to further my knowledge and contribute effectively to the company’s business objectives.
 - 📫 How to reach me is by contacting my email @Jalenbullard2001@gmail.com
