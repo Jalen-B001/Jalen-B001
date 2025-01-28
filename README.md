@@ -2,7 +2,7 @@ Hi, I'm Jalen Bullard 👋
 
 🚀 Aspiring Software Engineer | Passionate about iOS Development, Java, and Python  
 💡 I enjoy developing apps, problem-solving, and building innovative digital solutions that enhance user experiences
-📚 Skills: Python, Java, iOS Development (Swift), C++, Microsoft Office  
+       📚 Skills: Python, Java, iOS Development (Swift), C++, Microsoft Office  
 
 🔨 Projects  
 - [Dotty - Puzzle Game](https://github.com/Jalen-B001/Dotty): An interactive grid-based matching game using Java and Android Studio  
