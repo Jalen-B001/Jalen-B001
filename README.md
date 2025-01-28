@@ -1,7 +1,7 @@
 Hi, I'm Jalen Bullard 👋
 
 🚀 Aspiring Software Engineer | Passionate about iOS Development, Java, and Python  
-💡 I enjoy problem-solving and building innovative digital solutions  
+💡 I enjoy developing apps, problem-solving, and building innovative digital solutions that enhance user experiences
 📚 Skills: Python, Java, iOS Development (Swift), C++, Microsoft Office  
 
 🔨 Projects  
