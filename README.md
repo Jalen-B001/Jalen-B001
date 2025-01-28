@@ -8,9 +8,6 @@ Hi, I'm Jalen Bullard 👋
 - [Dotty - Puzzle Game](https://github.com/Jalen-B001/Dotty): An interactive grid-based matching game using Java and Android Studio  
 - [Study Helper](https://github.com/Jalen-B001/Study-Helper): A mobile app that helps students study efficiently with categorized questions  
 
-📈 GitHub Stats  
-![Jalen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jalen-B001&show_icons=true&theme=radical)
-
 💼 Looking for opportunities to contribute to a team, learn, and grow as a developer!  
 📫 Contact me: [Jalenbullard2001@gmail.com](mailto:Jalenbullard2001@gmail.com)  
 
